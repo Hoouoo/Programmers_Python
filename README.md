@@ -1,5 +1,5 @@
-# Programmers_Python
+# 프로그래머스 알고리즘
 
 ~~~
-Python3 프로그래머스 알고리즘
+Python3 프로그래머스 알고리즘 입니다.
 ~~~
